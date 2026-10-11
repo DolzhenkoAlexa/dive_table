@@ -1,0 +1,44 @@
+{
+  "notes": {
+    "me": ["Cюда можно записывать заметочки и удалять их крестиком"]
+  },
+  "text": [
+    { "id": "txt_generic", "name": "Текстовое событие" }
+  ],
+  "neutral": [
+    { "id": "neu_salmon",    "name": "Коралловый лосось",   "image": "korallosos.png" },
+    { "id": "neu_lucian",    "name": "Жёлто-синий луциан",  "image": "yellowblue.png" },
+    { "id": "neu_surgeon",   "name": "Хирурговая рыба",     "image": "hirirrg.png" },
+    { "id": "neu_clown",     "name": "Рыба-клоун",          "image": "clownfish.png" },
+    { "id": "neu_sigan",     "name": "Сиган",               "image": "sigan.png" },
+    { "id": "neu_butterfly", "name": "Рыба-бабочка",        "image": "babochkafish.png" }
+  ],
+  "positive": [
+    { "id": "pos_moss",        "name": "Обычный мох",                 "image": "moh.png" },
+    { "id": "pos_watermoss",   "name": "Наполненный водой мох",       "image": "watermoh.png" },
+    { "id": "pos_tiny_stone",  "name": "Крошечный камень",            "image": "verysmallstone.png" },
+    { "id": "pos_small_stone", "name": "Небольшой камень",            "image": "smallstone.png" },
+    { "id": "pos_stone",       "name": "Камень",                      "image": "stone.png" },
+    { "id": "pos_kom",         "name": "Ком из веток и водорослей",   "image": "kom.png" }
+  ],
+  "super": [
+    { "id": "pos_dense",     "name": "Плотная водоросль",            "image": "plotnayaodorosl.png" },
+    { "id": "pos_healing",   "name": "Целебная водоросль",           "image": "celebnayaodorosl.png" },
+    { "id": "pos_branch",    "name": "Крепкая ветка",                "image": "krepkayavetka.png" },
+    { "id": "pos_coral_1",   "name": "Алый коралл (1)",              "image": "redcoral1.png" },
+    { "id": "pos_coral_2",   "name": "Алый коралл (2)",              "image": "redcoral2.png" },
+    { "id": "pos_seaweed_1", "name": "Лист морской водоросли (1)",   "image": "listseaodorosl1.png", "note": "на сон" },
+    { "id": "pos_seaweed_2", "name": "Лист морской водоросли (2)",   "image": "listseaodorosl2.png" },
+    { "id": "pos_seaweed_3", "name": "Лист морской водоросли (3)",   "image": "listseaodorosl3.png" },
+    { "id": "pos_iskra",     "name": "Искра",                        "image": "iskra.png" }
+  ],
+  "negative": [
+    { "id": "neg_crab_1", "name": "Живой краб (оранжево-голубой)", "image": "3975.png", "damage": 5,  "effect": "раны" },
+    { "id": "neg_crab_2", "name": "Живой краб (зелёный)",          "image": "3977.png", "damage": 5,  "effect": "раны" },
+    { "id": "neg_crab_3", "name": "Живой краб (бордовый)",         "image": "3979.png", "damage": 5,  "effect": "раны" },
+    { "id": "neg_ray_1",  "name": "Живой электрический скат (синий)", "image": "3981.png", "damage": 10, "effect": "переломы" },
+    { "id": "neg_ray_2",  "name": "Живой электрический скат (серый)", "image": "3983.png", "damage": 10, "effect": "переломы" },
+    { "id": "neg_snake",  "name": "Морская змея",                  "image": "3985.png", "damage": 10, "effect": "отравление" },
+    { "id": "neg_jelly",  "name": "Медуза",                        "image": "3986.png", "damage": 10, "effect": "отравление" }
+  ]
+}
